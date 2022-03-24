@@ -1,0 +1,13 @@
+*~
+#*#
+
+# Ruby
+Gemfile.lock
+
+# temporarily dirs
+aozora_zip/
+aozorabunko/
+vendor/
+
+# macos
+.DS_*
